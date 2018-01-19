@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356767632731",
+    "firebase_url": "https://eattvm-217e2.firebaseio.com",
+    "project_id": "eattvm-217e2",
+    "storage_bucket": "eattvm-217e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356767632731:android:1b7de0e4f1e2ff25",
+        "android_client_info": {
+          "package_name": "com.example.rakesh.eatvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356767632731-5evjcsinkp8cr5sput10u1130fu79d45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_BKWUOtUPAUeir2JYbyonEsvUFYoheI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
